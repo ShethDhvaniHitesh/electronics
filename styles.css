@@ -1,0 +1,26 @@
+body  {
+  background-color: #d6f8b8;
+}
+h1  {
+  color: #e4406f;
+  font-size: 50px;
+}
+a  {
+  text-decoration: none;
+}
+legend  {
+  font-size: 30px;
+}
+.login  {
+  background-color: #ca2374;
+}
+.forms  {
+  background-color: white;
+  display: inline-flex;
+}
+.buttons  {
+  background-color: #51e3d4;
+}
+.signup  {
+  background-color: #c6e377;
+}
