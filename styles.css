@@ -18,9 +18,48 @@ legend  {
   background-color: white;
   display: inline-flex;
 }
-.buttons  {
+.buttons  {;
   background-color: #51e3d4;
 }
 .signup  {
   background-color: #c6e377;
+}
+.home  {
+  background-color: #e6b2c6;
+}
+.nav-bar  {
+  background-color: #333;
+  overflow: hidden;
+}
+.nav-bar a  {
+  text-align: center;
+  padding: 14px 16px;
+  color: #f2f2f2;
+  text-decoration: none;
+  font-size: 16px;
+  float: left;
+}
+.nav-bar a:hover  {
+  background-color: #c6e377;
+  color: black;
+}
+.nav-bar .act  {
+  background-color: #9873b9;
+  color: white;
+}
+.nav-bar-right  {
+  float: right;
+}
+.nav-bar-right a:hover  {
+  background-color: #ffa900;
+}
+.foot  {
+  display: block;
+  bottom: 0;
+  background-color: white;
+}
+footer > a  {
+  font-size: 20px;
+  width: 80%;
+  margin: 0 auto;
 }
